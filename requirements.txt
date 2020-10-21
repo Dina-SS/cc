@@ -1,0 +1,11 @@
+numpy==1.19.2
+Pandas==1.1.2
+spacy==2.3.2
+argparse==1.1
+docx2txt== 0.8
+textract==1.6.3
+scikit-learn== 0.23.2
+nltk==3.5
+pdfminer==20191125
+Flask==1.1.2
+gunicorn==20.0.4
